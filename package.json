@@ -24,6 +24,7 @@
     "webpack-dev-server": "^3.1.14"
   },
   "dependencies": {
+    "@sindresorhus/is": "^0.17.1",
     "@types/dot-prop": "^5.0.1",
     "@types/meow": "^5.0.0",
     "dot-prop": "^5.0.0",
