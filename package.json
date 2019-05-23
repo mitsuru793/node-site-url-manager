@@ -28,6 +28,7 @@
     "@types/dot-prop": "^5.0.1",
     "@types/meow": "^5.0.0",
     "dot-prop": "^5.0.0",
+    "fs-extra": "^8.0.1",
     "meow": "^5.0.0"
   }
 }
